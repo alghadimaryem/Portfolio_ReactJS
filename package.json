@@ -3,9 +3,12 @@
   "description": "Personal Website V4",
   "version": "1.0.0",
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "engines": {
+    "node": "14.x"} ,
   "repository": {
     "type": "git",
     "url": "https://github.com/bchiang7/v4"
+ 
   },
   "keywords": [
     "gatsby"
